@@ -32,7 +32,7 @@ const mailOptions={
     from:'"Email Template" <'+process.env.EMAIL+'>',
     to:'raunakdob@gmail.com',
     subject:'Email Template',
-    template:'email',
+    template:'rif',
     // context:{
     //     title:'Email Template',
     // },
